@@ -1,0 +1,245 @@
+Speaker,Condition,Number,Sentence,Response_Target,Count,Performance,Error_Type
+L1,I,S01,We put salt on the street to melt the ace,ace,34,Target,
+L1,I,S01,We put salt on the street to melt the ace,ice,19,Lure,
+L1,I,S01,We put salt on the street to melt the ace,act,1,Other,
+L1,I,S02,She used her phone to make the ball,ball,52,Target,
+L1,I,S03,He wore a mask over his base,base,47,Target,
+L1,I,S03,He wore a mask over his base,face,4,Lure,
+L1,I,S03,He wore a mask over his base,bace,1,Other,
+L1,I,S03,He wore a mask over his base,bass,2,Other,
+L1,I,S04,Wipe your feet on the bat,bat,53,Target,
+L1,I,S04,Wipe your feet on the bat,mat,1,Lure,
+L1,I,S05,Use a comb to fix your bear,bear,46,Target,
+L1,I,S05,Use a comb to fix your bear,hair,1,Lure,
+L1,I,S05,Use a comb to fix your bear,bare,6,Other,
+L1,I,S06,He went to the tracks to watch the brain,brain,50,Target,
+L1,I,S06,He went to the tracks to watch the brain,brains,1,Other,
+L1,I,S06,He went to the tracks to watch the brain,rain,1,Other,
+L1,I,S06,He went to the tracks to watch the brain,braid,2,Other,B
+L1,I,S07,Use this spray to kill the bus,buss,1,Target,
+L1,I,S07,Use this spray to kill the bus,bus,51,Target,
+L1,I,S07,Use this spray to kill the bus,bugs,1,Lure,
+L1,I,S08,Twist the lid to open the car,car,54,Target,
+L1,I,S09,She wore a feather in her cat,cat,52,Target,
+L1,I,S09,She wore a feather in her cat,car,1,Other,B
+L1,I,S10,He used a mop to clean the float,float,54,Target,
+L1,I,S11,They had to find a vein to draw her flood,flood,49,Target,
+L1,I,S12,You need wax to make a handle,handle,53,Target,
+L1,I,S13,They served soup in a hole,hole,51,Target,
+L1,I,S13,They served soup in a hole,whole,3,Other,
+L1,I,S14,He needed a saw to cut the hood,hood,52,Target,
+L1,I,S14,He needed a saw to cut the hood,wood,1,Lure,
+L1,I,S14,He needed a saw to cut the hood,hoad,1,Other,B
+L1,I,S15,You will need cards to play joker,joker,52,Target,
+L1,I,S16,They removed the cork to drink the line,lline,1,Target,
+L1,I,S16,They removed the cork to drink the line,line,26,Target,
+L1,I,S16,They removed the cork to drink the line,wine,3,Lure,
+L1,I,S16,They removed the cork to drink the line,,1,Other,
+L1,I,S16,They removed the cork to drink the line,lime,16,Other,B
+L1,I,S17,She took the bridge to cross the liver,liver,51,Target,
+L1,I,S17,She took the bridge to cross the liver,river,4,Lure,
+L1,I,S18,I couldn't see the road driving through the log,log,55,Target,
+L1,I,S18,I couldn't see the road driving through the log,fog,1,Lure,
+L1,I,S19,Check the clock if you want the mime,mime,50,Target,
+L1,I,S19,Check the clock if you want the mime,mine,1,Other,B
+L1,I,S20,He took a pill when he was pick,pick,52,Target,
+L1,I,S20,He took a pill when he was pick,pink,3,Other,B
+L1,I,S21,You might buy a yacht if you won the pottery,pottery,44,Target,
+L1,I,S21,You might buy a yacht if you won the pottery,lottery,1,Lure,
+L1,I,S21,You might buy a yacht if you won the pottery,pot,1,Other,B
+L1,I,S22,You will get wet if you walk in the race,race,55,Target,
+L1,I,S22,You will get wet if you walk in the race,rains,1,Other,
+L1,I,S23,He sat on the throne when he became ring,ring,45,Target,
+L1,I,S23,He sat on the throne when he became ring,king,2,Lure,
+L1,I,S23,He sat on the throne when he became ring,array,1,Other,B
+L1,I,S23,He sat on the throne when he became ring,part,1,Other,B
+L1,I,S23,He sat on the throne when he became ring,rate,1,Other,B
+L1,I,S23,He sat on the throne when he became ring,reign,1,Other,
+L1,I,S24,I’m always full after a big seal,seal,48,Target,
+L1,I,S24,I’m always full after a big seal,meal,1,Lure,
+L1,I,S25,He used soap to wash away the shirt,shirt,56,Target,
+L1,I,S26,I feel tired when I don't sleeve,sleeve,51,Target,
+L1,I,S26,I feel tired when I don't sleeve,sleep,1,Lure,
+L1,I,S26,I feel tired when I don't sleeve,sleathw,1,Other,B
+L1,I,S26,I feel tired when I don't sleeve,sleed,1,Other,B
+L1,I,S26,I feel tired when I don't sleeve,sleen,1,Other,B
+L1,I,S26,I feel tired when I don't sleeve,sleeth,1,Other,
+L1,I,S27,He stayed in the boat because he can’t swing,swing,50,Target,
+L1,I,S27,He stayed in the boat because he can’t swing,swim,2,Lure,
+L1,I,S27,He stayed in the boat because he can’t swing,can,1,Other,
+L1,I,S27,He stayed in the boat because he can’t swing,swimg,1,Other,
+L1,I,S28,We put the trash in a plastic tag,tag,50,Target,
+L1,I,S28,We put the trash in a plastic tag,tah,1,Other,B
+L1,I,S28,We put the trash in a plastic tag,trap,1,Other,B
+L1,I,S28,We put the trash in a plastic tag,tage,2,Other,B
+L1,I,S29,He got a letter in the tail,tail,49,Target,
+L1,I,S29,He got a letter in the tail,mail,1,Lure,
+L1,I,S29,He got a letter in the tail,tam,1,Other,B
+L1,I,S29,He got a letter in the tail,tale,5,Other,
+L1,I,S30,Wipe your greasy hands on that tower,tower,48,Target,
+L1,I,S30,Wipe your greasy hands on that tower,towel,7,Lure,
+L2,I,S01,We put salt on the street to melt the ace,ace,13,Target,
+L2,I,S01,We put salt on the street to melt the ace,ice,29,Lure,
+L2,I,S01,We put salt on the street to melt the ace,eyes,1,Other,B
+L2,I,S01,We put salt on the street to melt the ace,vase,1,Other,B
+L2,I,S02,She used her phone to make the ball,ball,12,Target,
+L2,I,S02,She used her phone to make the ball,call,1,Lure,
+L2,I,S02,She used her phone to make the ball,boil,1,Other,B
+L2,I,S02,She used her phone to make the ball,bone,1,Other,B
+L2,I,S02,She used her phone to make the ball,born,1,Other,B
+L2,I,S02,She used her phone to make the ball,bore,2,Other,B
+L2,I,S02,She used her phone to make the ball,boy,2,Other,B
+L2,I,S02,She used her phone to make the ball,board,3,Other,B
+L2,I,S02,She used her phone to make the ball,bowl,27,Other,B
+L2,I,S03,He wore a mask over his base,base,25,Target,
+L2,I,S03,He wore a mask over his base,face,7,Lure,
+L2,I,S03,He wore a mask over his base,baise,1,Other,B
+L2,I,S03,He wore a mask over his base,bas,1,Other,B
+L2,I,S03,He wore a mask over his base,blaze,1,Other,B
+L2,I,S03,He wore a mask over his base,braids,1,Other,
+L2,I,S03,He wore a mask over his base,eyes,1,Other,T
+L2,I,S03,He wore a mask over his base,bace,2,Other,
+L2,I,S03,He wore a mask over his base,bayes,2,Other,B
+L2,I,S03,He wore a mask over his base,baze,4,Other,B
+L2,I,S03,He wore a mask over his base,bays,8,Other,B
+L2,I,S04,Wipe your feet on the bat,bat,27,Target,
+L2,I,S04,Wipe your feet on the bat,mat,3,Lure,
+L2,I,S04,Wipe your feet on the bat,bad,1,Other,B
+L2,I,S04,Wipe your feet on the bat,bud,1,Other,B
+L2,I,S04,Wipe your feet on the bat,but,1,Other,B
+L2,I,S04,Wipe your feet on the bat,rug,1,Other,T
+L2,I,S04,Wipe your feet on the bat,back,2,Other,B
+L2,I,S04,Wipe your feet on the bat,bed,2,Other,B
+L2,I,S04,Wipe your feet on the bat,bot,2,Other,B
+L2,I,S04,Wipe your feet on the bat,bag,3,Other,B
+L2,I,S04,Wipe your feet on the bat,butt,5,Other,B
+L2,I,S04,Wipe your feet on the bat,bath,8,Other,B
+L2,I,S05,Use a comb to fix your bear,bear,41,Target,
+L2,I,S05,Use a comb to fix your bear,hair,2,Lure,
+L2,I,S05,Use a comb to fix your bear,beard,1,Other,T
+L2,I,S05,Use a comb to fix your bear,bare,3,Other,
+L2,I,S06,He went to the tracks to watch the brain,brain,40,Target,
+L2,I,S06,He went to the tracks to watch the brain,band,1,Other,
+L2,I,S06,He went to the tracks to watch the brain,brian,1,Other,B
+L2,I,S07,Use this spray to kill the bus,bus,24,Target,
+L2,I,S07,Use this spray to kill the bus,bug,1,Lure,
+L2,I,S07,Use this spray to kill the bus,bugs,15,Lure,
+L2,I,S07,Use this spray to kill the bus,bass,1,Other,B
+L2,I,S07,Use this spray to kill the bus,biugs,1,Other,T
+L2,I,S07,Use this spray to kill the bus,wasp,1,Other,T
+L2,I,S07,Use this spray to kill the bus,boss,2,Other,
+L2,I,S07,Use this spray to kill the bus,buzz,4,Other,
+L2,I,S08,Twist the lid to open the car,car,54,Target,
+L2,I,S08,Twist the lid to open the car,jar,1,Lure,
+L2,I,S08,Twist the lid to open the car,card,1,Other,B
+L2,I,S09,She wore a feather in her cat,cat,32,Target,
+L2,I,S09,She wore a feather in her cat,hat,2,Lure,
+L2,I,S09,She wore a feather in her cat,cap,7,Lure,
+L2,I,S09,She wore a feather in her cat,coat,1,Other,T
+L2,I,S09,She wore a feather in her cat,cart,3,Other,B
+L2,I,S09,She wore a feather in her cat,cut,7,Other,B
+L2,I,S10,He used a mop to clean the float,float,41,Target,
+L2,I,S10,He used a mop to clean the float,floor,9,Lure,
+L2,I,S10,He used a mop to clean the float,floap,1,Other,B
+L2,I,S10,He used a mop to clean the float,flot,1,Other,B
+L2,I,S10,He used a mop to clean the float,foot,1,Other,B
+L2,I,S10,He used a mop to clean the float,flood,2,Other,T
+L2,I,S11,They had to find a vein to draw her flood,flood,37,Target,
+L2,I,S11,They had to find a vein to draw her flood,blood,8,Lure,
+L2,I,S11,They had to find a vein to draw her flood,flag,2,Other,B
+L2,I,S12,You need wax to make a handle,handle,50,Target,
+L2,I,S12,You need wax to make a handle,candle,2,Lure,
+L2,I,S12,You need wax to make a handle,hair,1,Other,B
+L2,I,S12,You need wax to make a handle,handel,2,Other,
+L2,I,S13,They served soup in a hole,hole,48,Target,
+L2,I,S13,They served soup in a hole,whole,2,Other,
+L2,I,S13,They served soup in a hole,hall,3,Other,
+L2,I,S14,He needed a saw to cut the hood,hood,21,Target,
+L2,I,S14,He needed a saw to cut the hood,wood,4,Lure,
+L2,I,S14,He needed a saw to cut the hood,hode,1,Other,B
+L2,I,S14,He needed a saw to cut the hood,hold,1,Other,B
+L2,I,S14,He needed a saw to cut the hood,hole,1,Other,T
+L2,I,S15,You will need cards to play joker,joker,22,Target,
+L2,I,S15,You will need cards to play joker,poker,1,Lure,
+L2,I,S15,You will need cards to play joker,joccer,1,Other,B
+L2,I,S15,You will need cards to play joker,jocker,3,Other,B
+L2,I,S16,They removed the cork to drink the line,line,38,Target,
+L2,I,S16,They removed the cork to drink the line,wine,6,Lure,
+L2,I,S16,They removed the cork to drink the line,rine,1,Other,B
+L2,I,S16,They removed the cork to drink the line,vine,1,Other,B
+L2,I,S16,They removed the cork to drink the line,lime,7,Other,B
+L2,I,S17,She took the bridge to cross the liver,liver,12,Target,
+L2,I,S17,She took the bridge to cross the liver,river,18,Lure,
+L2,I,S17,She took the bridge to cross the liver,either,1,Other,B
+L2,I,S17,She took the bridge to cross the liver,leaver,1,Other,B
+L2,I,S17,She took the bridge to cross the liver,leether,1,Other,B
+L2,I,S17,She took the bridge to cross the liver,leever,1,Other,B
+L2,I,S17,She took the bridge to cross the liver,lither,1,Other,B
+L2,I,S17,She took the bridge to cross the liver,lether,2,Other,B
+L2,I,S17,She took the bridge to cross the liver,leather,4,Other,B
+L2,I,S17,She took the bridge to cross the liver,lever,13,Other,B
+L2,I,S18,I couldn't see the road driving through the log,log,46,Target,
+L2,I,S18,I couldn't see the road driving through the log,clog,1,Other,T
+L2,I,S18,I couldn't see the road driving through the log,rog,1,Other,B
+L2,I,S19,Check the clock if you want the mime,mime,47,Target,
+L2,I,S19,Check the clock if you want the mime,time,3,Lure,
+L2,I,S19,Check the clock if you want the mime,mine,4,Other,B
+L2,I,S20,He took a pill when he was pick,pick,16,Target,
+L2,I,S20,He took a pill when he was pick,sick,3,Lure,
+L2,I,S20,He took a pill when he was pick,pink,1,Other,B
+L2,I,S20,He took a pill when he was pick,speak,2,Other,B
+L2,I,S20,He took a pill when he was pick,peak,6,Other,B
+L2,I,S20,He took a pill when he was pick,big,10,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,pottery,25,Target,
+L2,I,S21,You might buy a yacht if you won the pottery,lottery,2,Lure,
+L2,I,S21,You might buy a yacht if you won the pottery,,1,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,body,1,Other,B
+L2,I,S21,You might buy a yacht if you won the pottery,know,1,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,pool,1,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,portray,1,Other,B
+L2,I,S21,You might buy a yacht if you won the pottery,pottry,1,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,poultry,1,Other,B
+L2,I,S21,You might buy a yacht if you won the pottery,it,2,Other,
+L2,I,S21,You might buy a yacht if you won the pottery,potty,2,Other,B
+L2,I,S21,You might buy a yacht if you won the pottery,party,10,Other,B
+L2,I,S22,You will get wet if you walk in the race,race,44,Target,
+L2,I,S22,You will get wet if you walk in the race,rain,1,Lure,
+L2,I,S22,You will get wet if you walk in the race,ice,1,Other,T
+L2,I,S22,You will get wet if you walk in the race,rice,1,Other,B
+L2,I,S22,You will get wet if you walk in the race,ways,1,Other,B
+L2,I,S22,You will get wet if you walk in the race,raise,2,Other,B
+L2,I,S22,You will get wet if you walk in the race,rays,3,Other,B
+L2,I,S23,He sat on the throne when he became ring,ring,34,Target,
+L2,I,S23,He sat on the throne when he became ring,king,6,Lure,
+L2,I,S23,He sat on the throne when he became ring,reigner,1,Other,T
+L2,I,S23,He sat on the throne when he became ring,ringer,1,Other,B
+L2,I,S24,I’m always full after a big seal,seal,38,Target,
+L2,I,S24,I’m always full after a big seal,meal,1,Lure,
+L2,I,S24,I’m always full after a big seal,sail,1,Other,
+L2,I,S24,I’m always full after a big seal,sale,1,Other,B
+L2,I,S24,I’m always full after a big seal,seer,1,Other,B
+L2,I,S24,I’m always full after a big seal,sill,1,Other,B
+L2,I,S25,He used soap to wash away the shirt,shirt,53,Target,
+L2,I,S26,I feel tired when I don't sleeve,sleeve,41,Target,
+L2,I,S26,I feel tired when I don't sleeve,sleep,10,Lure,
+L2,I,S26,I feel tired when I don't sleeve,sleave,1,Other,
+L2,I,S26,I feel tired when I don't sleeve,sleebve,1,Other,
+L2,I,S27,He stayed in the boat because he can’t swing,swing,47,Target,
+L2,I,S27,He stayed in the boat because he can’t swing,swim,4,Lure,
+L2,I,S28,We put the trash in a plastic tag,tag,39,Target,
+L2,I,S28,We put the trash in a plastic tag,bag,5,Lure,
+L2,I,S28,We put the trash in a plastic tag,mag,1,Other,T
+L2,I,S28,We put the trash in a plastic tag,tage,1,Other,B
+L2,I,S28,We put the trash in a plastic tag,target,1,Other,B
+L2,I,S28,We put the trash in a plastic tag,trag,1,Other,B
+L2,I,S28,We put the trash in a plastic tag,tub,1,Other,B
+L2,I,S28,We put the trash in a plastic tag,targ,4,Other,B
+L2,I,S29,He got a letter in the tail,tail,41,Target,
+L2,I,S29,He got a letter in the tail,day,1,Other,
+L2,I,S29,He got a letter in the tail,tape,1,Other,B
+L2,I,S29,He got a letter in the tail,telly,1,Other,B
+L2,I,S29,He got a letter in the tail,today,1,Other,
+L2,I,S29,He got a letter in the tail,tale,8,Other,
+L2,I,S30,Wipe your greasy hands on that tower,tower,35,Target,
+L2,I,S30,Wipe your greasy hands on that tower,towel,17,Lure,
+L2,I,S30,Wipe your greasy hands on that tower,tour,1,Other,B
